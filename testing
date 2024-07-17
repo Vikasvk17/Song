@@ -32,3 +32,28 @@ Champagne गिरा दी है तूने मेरी pant पे
 
 Nhi likhna mujhe as per behalf of Lord S.K.
 
+Now mood change I'll wirte
+
+thanks for all your permition
+
+hope my edits are going well
+
+"Now I'll share how to push and pull files or repository in github"
+1-sudo su
+2-apt install git -y (for installing git)
+3-git config user.name <name>
+4-git config user.email<email>
+5-mkdir <dir_name>
+6-git init
+7-nano <filename> (for creating new file and edit)
+8- git add . (for adding file)
+9- git commit -m "Comment" (Sending file to staging area)
+10-git log (for logs)
+11-git show <commit ID>
+12-git remote add origin <"GithubURL"> (for remote connection)
+13-git git push -u origin master (for code pushing)
+14-Username
+15 Password (Token)
+16 Now Code had been executed
+
+		Thanks in anticpation.
